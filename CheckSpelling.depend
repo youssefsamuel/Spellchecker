@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622931483 source:d:\cce\4th_term\data_structures\assignments\assignment4\checkspelling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
